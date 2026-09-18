@@ -1,9 +1,9 @@
 body {
   font-family: 'Times New Roman', serif;
-  background-color: rgb(255, 200, 48);
+  background-color: rgb(90, 127, 140);
   font-size: 16px;
   min-height: 100vh;
-  padding: 20px;
-  margin: 0;
-  color: rgb(0, 0, 0);
+  padding: 18px;
+  margin: 2px;
+  color: rgb(62, 8, 8);
 }
