@@ -1,4 +1,9 @@
 body {
+  font-family: 'Times New Roman', serif;
   background-color: rgb(255, 200, 48);
+  font-size: 16px;
   min-height: 100vh;
+  padding: 20px;
+  margin: 0;
+  color: rgb(0, 0, 0);
 }
