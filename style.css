@@ -7,3 +7,4 @@ body {
   margin: 2px;
   color: rgb(62, 8, 8);
 }
+.scroll-box{width: 70%; Max-width: 700px; height: 500px; margin: 40px auto; padding: 20px; overflow-y: auto; overflow-x: hidden; border: 2px solid rgba(255, 155, 155, 0); background-color: #fbdb99; box-sizing: border-box;}
